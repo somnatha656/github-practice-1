@@ -7,5 +7,6 @@ public class Practice {
 
         System.out.println(a+b);
 
+
     }
 }
